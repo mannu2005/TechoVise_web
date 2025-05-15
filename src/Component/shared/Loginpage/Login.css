@@ -1,0 +1,25 @@
+.Login_a{
+    padding-top:30px;
+    text-align: end;
+    text-decoration: none !important;
+    color: #138f74 !important;
+
+}
+.Box_img{
+    justify-content:center;
+    border-radius: 25px;
+    align-items: center;
+    align-content:center;
+}
+.Card_Login{
+    margin-top:-20px;
+    justify-content:center;
+    align-items:center;
+    align-Content:center;
+}
+.Login_h{
+    text-align:center;
+    font-weight:bold !important;
+    padding-top:10px;
+    font-size:24px !important;
+}

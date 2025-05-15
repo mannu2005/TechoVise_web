@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Virtual_h{
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    justify-content: center !important;
+}
+.Virtual_img{
+    height: 350px;
+    width: 350px;
+    justify-content: center !important;
+}
+@media (max-width:427px){
+    .Virtual_img{
+        height: 250px;
+        width: 250px;
+    }
+}

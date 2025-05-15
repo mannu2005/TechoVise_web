@@ -1,0 +1,44 @@
+.Subscription_Card{
+    justify-content:space-evenly;
+    margin-top: 70px;
+    border:1px solid #138f74;
+}
+.Subscription_Typography{
+    padding:5px 0px !important;
+}
+.Subscription_DoneIcon{
+    font-size:15px !important;
+    background-color:#138f74;
+    border-radius:20px;
+    color:#fff;
+}
+.Subscription_Span{
+    padding:0px 10px;
+     font-weight:500;
+     font-size: 20px; 
+}
+@media (min-width:1200px) and (max-width:1219px){
+    .CardContent{
+        height: 380px !important;
+       }
+}
+@media (min-width:920px) and (max-width:1049px){
+    .CardContent{
+        height: 400px !important;
+       }
+}
+@media (min-width:752px) and (max-width:770px){
+    .CardContent{
+        height: 400px !important;
+       }
+}
+@media (min-width:682px) and (max-width:704px){
+    .CardContent{
+        height: 400px !important;
+       }
+}
+@media (min-width:599px) and (max-width:608px){
+    .CardContent{
+        height: 430px !important;
+       }
+}

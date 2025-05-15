@@ -1,0 +1,8 @@
+.Section_img{
+    width: 470px !important;
+}
+@media (max-width:525px){
+    .Section_img{
+        width: 320px !important;
+    }
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: monstrate !important;
+}
+.Header_Drawer .Button{
+    color: #138f74;
+    font-size: 18px;
+}
+.Techovise_Logo{
+    height: 100px;
+    width:33vh;
+}
+@media (min-width:768px) and (max-width:1000px){
+    .Techovise_Logo{
+        height: 100px;
+        width:23vh;
+    }
+}
+@media (max-width:500px){
+    .Techovise_Logo{
+        height: 90px;
+        width:25vh;
+    }  
+}
